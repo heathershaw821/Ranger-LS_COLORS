@@ -1,3 +1,12 @@
+"""
+Author: Heather Shaw
+Email: heathershaw@disroot.org
+
+This file was created and maintained by Heather Shaw.
+For questions or contributions, please contact the author.
+"""
+
+
 from ranger.gui.colorscheme import ColorScheme
 from ranger.gui.color import *
 
